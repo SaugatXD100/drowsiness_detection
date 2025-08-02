@@ -44,7 +44,7 @@ For more information, [see](https://www.pyimagesearch.com/2017/05/08/drowsiness-
 
 ### Results 📊
 
-<img src="drowsiness-detection-master-drowsiness-detectionpy-2025-07-31-21-13-12_4CXYytqs.mp4">
+<img src="https://github.com/SaugatXD100/drowsiness_detection/blob/main/drowsiness-detection-master-drowsiness-detectionpy-2025-07-31-21-13-12_4CXYytqs.mp4">
 
 
 ### Execution 🐉
