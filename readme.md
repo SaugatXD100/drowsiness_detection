@@ -45,7 +45,7 @@ For more information, [see](https://www.pyimagesearch.com/2017/05/08/drowsiness-
 ### Results 📊
 
 <img src="https://github.com/SaugatXD100/drowsiness_detection/blob/main/PiMaw4BGYFlU.gif">
-
+<img src="https://github.com/SaugatXD100/drowsiness_detection/blob/main/Screenshot%20(725).png">
 
 ### Execution 🐉
 To run the code, type `python Drowsiness_Detection.py`
